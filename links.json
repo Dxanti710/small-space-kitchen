@@ -1,49 +1,60 @@
 {
-  "tag": null,
-  "ready": false,
-  "note": "NO TAG YET. Operator must finish Amazon Associates signup (tax interview). Hermes cannot use someone else's SSN.",
+  "tag": "shortsparkkit-20",
+  "ready": true,
   "links": [
     {
       "id": "bag-boxes",
       "query": "in drawer food storage bag organizer kitchen",
-      "url": "https://www.amazon.com/s?k=in+drawer+food+storage+bag+organizer+kitchen",
-      "tagged": false
+      "url": "https://www.amazon.com/s?k=in+drawer+food+storage+bag+organizer+kitchen&tag=shortsparkkit-20",
+      "tagged": true
     },
     {
       "id": "utensil-nest",
       "query": "expandable silverware utensil tray drawer",
-      "url": "https://www.amazon.com/s?k=expandable+silverware+utensil+tray+drawer",
-      "tagged": false
+      "url": "https://www.amazon.com/s?k=expandable+silverware+utensil+tray+drawer&tag=shortsparkkit-20",
+      "tagged": true
     },
     {
       "id": "spice-labels",
       "query": "angled in drawer spice organizer",
-      "url": "https://www.amazon.com/s?k=angled+in+drawer+spice+organizer",
-      "tagged": false
+      "url": "https://www.amazon.com/s?k=angled+in+drawer+spice+organizer&tag=shortsparkkit-20",
+      "tagged": true
     },
     {
       "id": "lid-avalanche",
       "query": "pot lid organizer rack cabinet",
-      "url": "https://www.amazon.com/s?k=pot+lid+organizer+rack+cabinet",
-      "tagged": false
+      "url": "https://www.amazon.com/s?k=pot+lid+organizer+rack+cabinet&tag=shortsparkkit-20",
+      "tagged": true
     },
     {
       "id": "dark-corner",
       "query": "9 inch lazy susan turntable kitchen cabinet",
-      "url": "https://www.amazon.com/s?k=9+inch+lazy+susan+turntable+kitchen+cabinet",
-      "tagged": false
+      "url": "https://www.amazon.com/s?k=9+inch+lazy+susan+turntable+kitchen+cabinet&tag=shortsparkkit-20",
+      "tagged": true
     },
     {
       "id": "fridge-see",
       "query": "stackable clear fridge organizer bins",
-      "url": "https://www.amazon.com/s?k=stackable+clear+fridge+organizer+bins",
-      "tagged": false
+      "url": "https://www.amazon.com/s?k=stackable+clear+fridge+organizer+bins&tag=shortsparkkit-20",
+      "tagged": true
     },
     {
       "id": "wrap-crush",
       "query": "in drawer foil wrap parchment organizer",
-      "url": "https://www.amazon.com/s?k=in+drawer+foil+wrap+parchment+organizer",
-      "tagged": false
+      "url": "https://www.amazon.com/s?k=in+drawer+foil+wrap+parchment+organizer&tag=shortsparkkit-20",
+      "tagged": true
+    },
+    {
+      "id": "five-drawer-problems",
+      "query": "kitchen drawer organizer",
+      "url": "https://www.amazon.com/s?k=kitchen+drawer+organizer&tag=shortsparkkit-20",
+      "tagged": true
+    },
+    {
+      "id": "how-we-pick",
+      "query": "kitchen organizer under 35",
+      "url": "https://www.amazon.com/s?k=kitchen+organizer+under+35&tag=shortsparkkit-20",
+      "tagged": true
     }
   ]
 }
